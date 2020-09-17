@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "526665431135",
+    "firebase_url": "https://shreemad-bhagvad-gita-hindi.firebaseio.com",
+    "project_id": "shreemad-bhagvad-gita-hindi",
+    "storage_bucket": "shreemad-bhagvad-gita-hindi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526665431135:android:b841d8f380ba79439cc3ea",
+        "android_client_info": {
+          "package_name": "com.bhagvadgitahindi.santosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526665431135-95msbr9sutibjr1bv8kt11e7h9i2dau0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7MIYSByHumZ3MrUarI4UeqQJHoXA8RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526665431135-95msbr9sutibjr1bv8kt11e7h9i2dau0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
